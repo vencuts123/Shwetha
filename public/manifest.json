@@ -1,0 +1,21 @@
+{
+  "name": "Shwetha🩵",
+  "short_name": "Shwetha🩵",
+  "description": "A special birthday gift for Shwetha",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f0f8ff",
+  "theme_color": "#0096FF",
+  "icons": [
+    {
+      "src": "/virtual-gift.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/virtual-gift.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
