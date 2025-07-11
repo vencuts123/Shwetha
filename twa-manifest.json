@@ -1,0 +1,54 @@
+{
+  "packageId": "app.web.shwetha_bday04_gift.twa",
+  "host": "shwetha-bday04-gift.web.app",
+  "name": "Virtual Gift🩵)",
+  "launcherName": "Shwetha🩵",
+  "display": "standalone",
+  "themeColor": "#0096FF",
+  "themeColorDark": "#000000",
+  "navigationColor": "#000000",
+  "navigationColorDark": "#000000",
+  "navigationDividerColor": "#000000",
+  "navigationDividerColorDark": "#000000",
+  "backgroundColor": "#F0F8FF",
+  "enableNotifications": true,
+  "startUrl": "/",
+  "iconUrl": "https://shwetha-bday04-gift.web.app/virtual-gift.png",
+  "maskableIconUrl": "https://shwetha-bday04-gift.web.app/virtual-gift.png",
+  "monochromeIconUrl": "https://shwetha-bday04-gift.web.app/virtual-gift.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "E:\\PasteNest (2)\\android.keystore",
+    "alias": "android"
+  },
+  "appVersionName": "1",
+  "appVersionCode": 1,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://shwetha-bday04-gift.web.app/manifest.json",
+  "fallbackType": "customtabs",
+  "features": {
+    "playBilling": {
+      "enabled": true
+    },
+    "locationDelegation": {
+      "enabled": true
+    }
+  },
+  "alphaDependencies": {
+    "enabled": false
+  },
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "isMetaQuest": false,
+  "fullScopeUrl": "https://shwetha-bday04-gift.web.app/",
+  "minSdkVersion": 21,
+  "orientation": "portrait",
+  "fingerprints": [],
+  "additionalTrustedOrigins": [],
+  "retainedBundles": [],
+  "protocolHandlers": [],
+  "fileHandlers": [],
+  "launchHandlerClientMode": "",
+  "appVersion": "1"
+}

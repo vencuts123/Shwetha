@@ -18,21 +18,21 @@ const photos: PhotoData[] = [
     section: "👶 Childhood Memories",
     caption: "First birthday 🎂",
     quote: "Adorned in beautiful traditional wear, even as a little one ✨",
-    image: "https://mocha-cdn.com/0197aef3-9ca1-7076-bf4c-c94633eb0b0a/-.jpg"
+    image: "/images/1.png"
   },
   {
     id: 2,
     section: "👶 Childhood Memories",
     caption: "Little princess 👑",
     quote: "That intense gaze, already showing such character 🩵",
-    image: "https://mocha-cdn.com/0197aef3-9ca1-7076-bf4c-c94633eb0b0a/Copy-of--.jpg"
+    image: "/images/2.png"
   },
   {
     id: 3,
     section: "👶 Childhood Memories",
     caption: "That smile 😊",
     quote: "Even in childhood, your style was one of a kind 💫",
-    image: "https://mocha-cdn.com/0197aef3-9ca1-7076-bf4c-c94633eb0b0a/Copy-of-Copy-of--.jpg"
+    image: "/images/3.png"
   },
   
   // Section 2: Her Elegant Styles
@@ -41,21 +41,21 @@ const photos: PhotoData[] = [
     section: "👗 Her Elegant Styles",
     caption: "Silk elegance 🪭",
     quote: "You redefine grace in every saree you wear 💃",
-    image: "https://mocha-cdn.com/0197aef3-9ca1-7076-bf4c-c94633eb0b0a/Copy-of-Copy-of-Copy-of--.jpg"
+    image: "/images/4.png"
   },
   {
     id: 5,
     section: "👗 Her Elegant Styles",
     caption: "Ethnic queen 👑",
     quote: "Traditional wear was made for you alone 🌸",
-    image: "https://mocha-cdn.com/0197aef3-9ca1-7076-bf4c-c94633eb0b0a/Copy-of-Copy-of-Copy-of-Copy-of--.jpg"
+    image: "/images/5.png"
   },
   {
     id: 6,
     section: "👗 Her Elegant Styles",
     caption: "Power blazer 💼",
     quote: "When you wear confidence as your best accessory 🔥",
-    image: "https://mocha-cdn.com/0197aef3-9ca1-7076-bf4c-c94633eb0b0a/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of--.jpg"
+    image: "/images/6.png"
   },
   
   // Section 3: Our Special Memories

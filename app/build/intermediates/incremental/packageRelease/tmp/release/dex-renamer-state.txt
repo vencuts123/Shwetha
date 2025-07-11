@@ -1,0 +1,4 @@
+#Sat Jul 05 21:21:43 IST 2025
+base.0=E\:\\PasteNest (2)\\app\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
